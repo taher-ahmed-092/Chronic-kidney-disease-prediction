@@ -23,18 +23,20 @@ This project uses machine learning to predict the likelihood of chronic kidney d
 
 ## 🤖 Models Used
 
-                   Method used  Accuracy score
-           LogisticRegression            0.97
-       DecisionTreeClassifier            1.00
-       RandomForestClassifier            1.00
-            BaggingClassifier            0.99
-   GradientBoostingClassifier            1.00
-         KNeighborsClassifier            0.96
-                          SVC            0.98
-                  BernoulliNB            0.93
-                   GaussianNB            1.00
-                XGBClassifier            0.99
-            VotingClassifier            1.00
+| Model                    | Accuracy Score |
+|--------------------------|----------------|
+| LogisticRegression       | 0.97           |
+| DecisionTreeClassifier   | 1.00           |
+| RandomForestClassifier   | 1.00           |
+| BaggingClassifier        | 0.99           |
+| GradientBoostingClassifier | 1.00         |
+| KNeighborsClassifier     | 0.96           |
+| SVC                      | 0.98           |
+| BernoulliNB              | 0.93           |
+| GaussianNB               | 1.00           |
+| XGBClassifier            | 0.99           |
+| VotingClassifier         | 1.00           |
+
 
 ## 🚀 Deployment
 
